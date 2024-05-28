@@ -4,7 +4,7 @@
   "description": "nodejs template",
   "scripts": {
     "start": "nodemon",
-    "build": "ts-node esbuild.ts"
+    "build": "ts-node esbuild.config.ts"
   },
   "keywords": [],
   "author": "eternaldreamers",
